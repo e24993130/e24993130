@@ -17,7 +17,7 @@
 		&emsp;i. [雨田食事](https://www.walkerland.com.tw/article/view/214629) 😄 [地圖](https://www.google.com/maps/place/%E9%9B%A8%E7%94%B0%E9%A3%9F%E4%BA%8B/@23.4582237,120.2978618,15z/data=!4m5!3m4!1s0x0:0x17af555ad90b81a9!8m2!3d23.4582237!4d120.2978618)<br>
 		&emsp;ii. [築日食堂](https://luckyday296.pixnet.net/blog/post/403912352-%E5%98%89%E7%BE%A9~%E5%A4%AA%E4%BF%9D-%E7%AF%89%E6%97%A5%E9%A3%9F%E5%A0%82-%E9%AB%98cp%E5%80%BC%E7%BE%8E%E5%91%B3%E6%97%A5%E5%BC%8F%E5%AE%9A%E9%A3%9F-%E5%98%89%E7%BE%A9) 😄 [地圖](https://www.google.com/maps/place/%E7%AF%89%E6%97%A5%E9%A3%9F%E5%A0%82/@23.4588217,120.2961803,15z/data=!4m5!3m4!1s0x0:0x2575b95bca4c82e4!8m2!3d23.4588217!4d120.2961803)<br>
 		&emsp;iii.[一見日本料理](https://suhajai0630.pixnet.net/blog/post/419186617) 😄 [地圖](https://www.google.com/maps/place/%E4%B8%80%E8%A6%8B%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86/@23.4629553,120.298369,15z/data=!4m12!1m6!3m5!1s0x0:0x2575b95bca4c82e4!2z56-J5pel6aOf5aCC!8m2!3d23.4588217!4d120.2961803!3m4!1s0x346e9a34d5fd8831:0x171736b1d2802eb9!8m2!3d23.4565095!4d120.2978897)<br>
-		&emsp;Vi. [其他再看看吧](https://sunny230.pixnet.net/blog/post/449550170) 我在加<>
+		&emsp;vi. [其他再看看吧](https://sunny230.pixnet.net/blog/post/449550170) 我在加<br>
 	b. 如果想在嘉義吃....有過多選擇
 	
 	
