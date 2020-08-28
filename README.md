@@ -38,7 +38,7 @@
 
 
 
-### [這個太遠 而且我怕你腳痛 (玩)](https://www.alberthsieh.com/27675/mutrail-alishan)
+### [這個太遠 而且我怕你腳痛](https://www.alberthsieh.com/27675/mutrail-alishan)
 
 	
 	
