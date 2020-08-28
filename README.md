@@ -1,14 +1,14 @@
 ## 20200829 玩 with 壞壞護理師 👋
 
 ### 主軸大概是[故宮南院(嘉義)!](https://south.npm.gov.tw/)為開始
-**1. 早上 : 8:30 到小芸同學家<br>**
+**1. 早上 : 9:30 到小芸同學家<br>**
     &emsp;a. 開車 : <br>
                 &emsp;&emsp;i. 開車 (20 mins) -> 到停車場 (5mins)<br>
-			  &emsp;&emsp;ii. 買早餐 (10 mins)<br>
-			  &emsp;&emsp;iii. 7:50左右出門<br>
+			  &emsp;&emsp;ii. 買早餐(麥噹噹) (10 mins) (大大要吃火腿蛋堡)<br>
+			  &emsp;&emsp;iii. 8:50左右出門<br>
 			  
 **2. 開車至故宮南院需 1.5小時 ([以google map 估算!](https://www.google.com/maps/place/%E6%95%85%E5%AE%AE%E5%8D%97%E9%99%A2%E9%81%8A%E5%AE%A2%E4%B8%AD%E5%BF%83/@23.3500646,120.3356442,11.25z/data=!4m22!1m16!4m15!1m6!1m2!1s0x346e0527a28b0623:0x6972179ccd907072!2zODA36auY6ZuE5biC5LiJ5rCR5Y2A5aSn6IiI6KGXNDXomZ8!2m2!1d120.3296842!2d22.6544091!1m6!1m2!1s0x346e9bd42bdda57b:0x69196ae48b15b8cb!2zNjEy5ZiJ576p57ij5aSq5L-d5biC5pWF5a6u5aSn6YGTODg46Jmf5ZyL56uL5pWF5a6u5Y2a54mp6Zmi5Y2X6YOo6Zmi5Y2A!2m2!1d120.2927165!2d23.4731294!3e0!3m4!1s0x346e9bd38bd6166f:0xc2f6d6f271acf481!8m2!3d23.4706557!4d120.2934507)) (等睡醒的G人)<br>**
-	&emsp;a. 準時: 10:15到<br>
+	&emsp;a. 準時: 11:15到<br>
 	&emsp;b. [聽說有活動!](https://south.npm.gov.tw/ExhibitionActivity.aspx?Date=2020-08-29)<br>
 	&emsp;c. 逛個我想 1-1.5 個小時<br>
 	&emsp;d. 附近能去的地方 : 看起來只有[蒜頭台糖廠!](https://www.google.com/maps/place/%E8%92%9C%E9%A0%AD%E7%B3%96%E5%BB%A0%E8%94%97%E5%9F%95%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80/@23.4778502,120.2951895,16.25z/data=!4m22!1m16!4m15!1m6!1m2!1s0x346e0527a28b0623:0x6972179ccd907072!2zODA36auY6ZuE5biC5LiJ5rCR5Y2A5aSn6IiI6KGXNDXomZ8!2m2!1d120.3296842!2d22.6544091!1m6!1m2!1s0x346e9bd42bdda57b:0x69196ae48b15b8cb!2zNjEy5ZiJ576p57ij5aSq5L-d5biC5pWF5a6u5aSn6YGTODg46Jmf5ZyL56uL5pWF5a6u5Y2a54mp6Zmi5Y2X6YOo6Zmi5Y2A!2m2!1d120.2927165!2d23.4731294!3e0!3m4!1s0x346e9933f97ed60d:0x510ce3e3f73a2118!8m2!3d23.4802444!4d120.2994695)<br>
