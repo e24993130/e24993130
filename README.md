@@ -30,6 +30,7 @@
 	&emsp;b. [愛木村休閒觀光工廠](https://iwoodvillage.com/)  😄 [地圖](https://www.google.com/maps/place/%E6%84%9B%E6%9C%A8%E6%9D%91%E4%BC%91%E9%96%92%E8%A7%80%E5%85%89%E5%B7%A5%E5%BB%A0/@23.5021244,120.4424064,13.25z/data=!4m5!3m4!1s0x346e95d91cf08fd9:0x5332984ab9f13b77!8m2!3d23.5019777!4d120.4384804) -> 營業時間 : 星期六09:00–17:30<br>
         &emsp;c. [貓咪彩繪村](https://haohui2017.com/lifestyle/307/)   😄 [地圖](https://www.google.com/maps/place/%E8%B2%93%E5%92%AA%E5%BD%A9%E7%B9%AA%E6%9D%91-%E8%8F%81%E5%9F%94%E5%BD%A9%E7%B9%AA%E6%9D%91/@23.5528601,120.4142692,13.75z/data=!4m5!3m4!1s0x346ebde6e0cead25:0xfe9c5f9a062c4144!8m2!3d23.556867!4d120.3987408)<br>
 	&emsp;d. [竹崎親水公園](https://intuitor.pixnet.net/blog/post/33146218-%5B%E5%98%89%E7%BE%A9%5D%E7%AB%B9%E5%B4%8E%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92%EF%BC%8C2020%E6%9B%B4%E6%96%B0%E7%89%88%EF%BC%81%E5%A4%A7%E9%AF%A8%E9%AD%9A%E6%94%80%E7%88%AC)  😄 [地圖](https://www.google.com/maps/place/%E7%AB%B9%E5%B4%8E%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92/@23.524267,120.5471835,15z/data=!4m5!3m4!1s0x0:0x5af2c97a99d2d2ee!8m2!3d23.524267!4d120.5471835?hl=zh-TW) (從嘉義市過去車程約30分)<br>
+	&emsp;e. [這個太遠 而且我怕你腳痛](https://www.alberthsieh.com/27675/mutrail-alishan)<br>
 **5. Optional 隨意走走之類的 [可以點這看看](https://www.google.com/travel/things-to-do/see-all?g2lb=2502548%2C4258168%2C4270442%2C4306835%2C4317915%2C4322823%2C4328159%2C4371335%2C4372336%2C4401769%2C4403882%2C4419364%2C4424916%2C4425793%2C4431132%2C4270859%2C4284970%2C4291517%2C4412693&hl=zh-TW&gl=tw&un=1&dest_mid=%2Fm%2F035vmh&dest_state_type=sattd&dest_src=ts&sa=X#ttdm=23.466038_120.476155_14&ttdmf=%252Fg%252F11bwd_vbxr)<br>**
 	&emsp;a. 蘭潭後山步道 😄 [地圖](https://www.google.com/maps/place/%E8%98%AD%E6%BD%AD%E5%BE%8C%E5%B1%B1%E6%AD%A5%E9%81%93/@23.4793666,120.4896926,15z/data=!4m2!3m1!1s0x0:0x4fdaae23eb02a59b?sa=X&ved=2ahUKEwjMl831i77rAhWtyosBHQ_oCX8Q_BIwCnoECBYQCA)<br>
 	&emsp;b. [嘉義八掌溪堤防黃金風鈴木步道 (看起來花期過了 哈哈哈)](https://hiking.biji.co/index.php?q=news&act=info&id=16574)  😄 [地圖](https://www.google.com/maps/place/%E5%85%AB%E6%8E%8C%E6%BA%AA%E7%95%94%E9%BB%83%E9%87%91%E9%A2%A8%E9%88%B4%E8%8A%B1/@23.4602364,120.4585309,15z/data=!4m12!1m6!3m5!1s0x0:0x610d4cc302a20e11!2z5ZiJ576p5YWr5o6M5rqq5aCk6Ziy6buD6YeR6aKo6Yi05pyo5q2l6YGT!8m2!3d23.4602364!4d120.4585309!3m4!1s0x346e945d4c58cc59:0xfdcd2ac18e233bc9!8m2!3d23.4606407!4d120.470514?hl=zh-TW)<br>
@@ -37,12 +38,21 @@
 	&emsp;d. [旺來山觀光工廠(看要不要進去吃個鳳梨酥)](https://fullfenblog.tw/pineapplehill/) 😄 [地圖](https://www.google.com/maps/place/%E6%97%BA%E8%90%8A%E5%B1%B1%E9%B3%B3%E6%A2%A8%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80/@23.55306,120.480322,15z/data=!4m2!3m1!1s0x0:0x499d9dc4be439c77?sa=X&ved=2ahUKEwjIxuqdjb7rAhVVw4sBHbLsC1oQ_BIwCnoECBcQCA) -> 營業時間 : 星期六09:00–18:00<br>
 
 ## 找有廁所的 7-11 [點此連結](https://emap.pcsc.com.tw/#)<br>
+## 可以帶的東西
+
+<ul><li>[ ] 輕便雨衣 </li></ul>
+<ul><li>[ ] 防蚊液 </li></ul>
+<ul><li>[ ] 小方巾 </li></ul>
+<ul><li>[ ] 濕紙巾 </li></ul>
+<ul><li>[ ] 小包面紙 </li></ul>
+<ul><li>[ ] 輕鬆愉快的心 </li></ul>
+<ul><li>[ ] 水水 </li></ul>
+<ul><li>[ ] 摺疊傘 (陽傘) </li></ul>
+<ul><li>[ ] 拖鞋 </li></ul>
+<ul><li>[ ] 走路鞋 </li></ul>
+<ul><li>[ ] 大包面紙 (放車上) </li></ul>
 
 	
-
-
-
-### [這個太遠 而且我怕你腳痛](https://www.alberthsieh.com/27675/mutrail-alishan)
 
 	
 	
