@@ -48,6 +48,12 @@
 
 ## 嘉義的部分還有一個懶人包但我很懶沒整理 [點此](https://www.alberthsieh.com/18812/chiayi999)<br>
 ## 找有廁所的 7-11 [點此連結](https://emap.pcsc.com.tw/#)<br>
+## 天氣預報系列 - 未來48小時內天氣預報<br>
+### [高雄市三民區](https://weather.com/zh-TW/weather/hourbyhour/l/e77887d79ece50ba5ca984914c516797647d2b668673d28f8cf6d8baa2e6ba19#detailIndex4)<br>
+### [台南市東區](https://weather.com/zh-TW/weather/hourbyhour/l/97eb14db9945c4c1447710e459568a0da23b3748315729fb4674be7dc7443cad)<br>
+### [嘉義縣太保市(故宮南院那一區)](https://weather.com/zh-TW/weather/hourbyhour/l/6012ffe802af252d0e3fc850608e8442401c273ccb4a85f3dd447b51b885d757)<br>
+### [嘉義市東區(火車站那一區)](https://weather.com/zh-TW/weather/hourbyhour/l/87235668d2c1ca769459ffd7d108dd1b1df95064eb969f33673b4752e7a33aa5)<br>
+### [嘉義縣竹崎鄉(親子公園那一區)](https://weather.com/zh-TW/weather/hourbyhour/l/4e089a7b34bf27d3822ecb26f8579d3ed9302977c1fc782f6193c11c02425e8e)<br>
 ## 可以帶的東西<br>
 
 <ul><li>[ ] 輕便雨衣 </li></ul>
