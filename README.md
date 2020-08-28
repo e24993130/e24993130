@@ -19,6 +19,13 @@
 		&emsp;iii.[一見日本料理](https://suhajai0630.pixnet.net/blog/post/419186617) 😄 [地圖](https://www.google.com/maps/place/%E4%B8%80%E8%A6%8B%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86/@23.4629553,120.298369,15z/data=!4m12!1m6!3m5!1s0x0:0x2575b95bca4c82e4!2z56-J5pel6aOf5aCC!8m2!3d23.4588217!4d120.2961803!3m4!1s0x346e9a34d5fd8831:0x171736b1d2802eb9!8m2!3d23.4565095!4d120.2978897)<br>
 		&emsp;vi. [其他再看看吧](https://sunny230.pixnet.net/blog/post/449550170) 我在加<br>
 	b. 如果想在嘉義吃....有過多選擇
+<br>
+
+### [待更新1 吃](https://www.niniyeh.com/2020/06/local-cuisine-featured-in-chiayi.html?m=1)
+### [待更新2 吃](https://www.alberthsieh.com/35608/chiayi-rtssf)
+### [待更新3 吃](https://www.alberthsieh.com/35608/chiayi-rtssf)
+### [待更新4 玩](https://www.alberthsieh.com/27675/mutrail-alishan)
+
 	
 	
 	
