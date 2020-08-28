@@ -37,8 +37,9 @@
 	&emsp;c. [藍花楹隧道 (看起來花期也過了 哈哈哈哈)](https://cmeyy.com/blog/post/20180427) 😄 [地圖](https://www.google.com/maps/place/%E8%97%8D%E8%8A%B1%E6%A5%B9%E9%9A%A7%E9%81%93/@23.5030834,120.4724292,15z/data=!4m2!3m1!1s0x0:0x6cce0f061db9a92c?sa=X&ved=2ahUKEwi1tKOwi77rAhUJyosBHUorC7sQ_BIwEHoECBYQCA)<br>
 	&emsp;d. [旺來山觀光工廠(看要不要進去吃個鳳梨酥)](https://fullfenblog.tw/pineapplehill/) 😄 [地圖](https://www.google.com/maps/place/%E6%97%BA%E8%90%8A%E5%B1%B1%E9%B3%B3%E6%A2%A8%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80/@23.55306,120.480322,15z/data=!4m2!3m1!1s0x0:0x499d9dc4be439c77?sa=X&ved=2ahUKEwjIxuqdjb7rAhVVw4sBHbLsC1oQ_BIwCnoECBcQCA) -> 營業時間 : 星期六09:00–18:00<br>
 
+## 嘉義的部分還有一個懶人包但我很懶沒整理 [點此](https://www.alberthsieh.com/18812/chiayi999)<br>
 ## 找有廁所的 7-11 [點此連結](https://emap.pcsc.com.tw/#)<br>
-## 可以帶的東西
+## 可以帶的東西<br>
 
 <ul><li>[ ] 輕便雨衣 </li></ul>
 <ul><li>[ ] 防蚊液 </li></ul>
